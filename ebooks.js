@@ -69,7 +69,7 @@
         {
           "title": "Visual C# Step by Step (Eighth Edition",
           "subtitle": "Beginner to Advanced",
-          "pdfFileName": "https://limewire.com/d/wjWsb#pWZOORQGhu",
+          "pdfFileName": "https://www.dropbox.com/scl/fi/ifmz5b1ek2zawwlkonxl5/John-Sharp-Microsoft-Visual-CSharp.pdf?rlkey=3ls7puhf0m68hc174biukqhjz&st=om7ci8w0&dl=0",
           "iconUrl": "https://drive.google.com/uc?export=download&id=1PT0A9CsvAy4vcDC4QH99wPVPXexWE6XP"
         },
         {
