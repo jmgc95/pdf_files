@@ -67,10 +67,10 @@
       "name": "Computer Programming",
       "books": [
         {
-          "title": "C++ Programming",
+          "title": "Visual C# Step by Step (Eighth Edition",
           "subtitle": "Beginner to Advanced",
-          "pdfFileName": "c++_programming.pdf",
-          "iconUrl": "https://example.com/icons/cpp.png"
+          "pdfFileName": "https://limewire.com/d/wjWsb#pWZOORQGhu",
+          "iconUrl": "https://drive.google.com/uc?export=download&id=1PT0A9CsvAy4vcDC4QH99wPVPXexWE6XP"
         },
         {
           "title": "Java Programming",
