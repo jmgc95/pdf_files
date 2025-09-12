@@ -75,13 +75,13 @@
         {
           "title": "Java Programming",
           "subtitle": "From Problem Analysis to Program Design",
-          "pdfFileName": "http://jmgctv-stream.online/java_programming",
+          "pdfFileName": "http://jmgctv-stream.online/java_programming.pdf",
           "iconUrl": "http://jmgctv-stream.online/java.jpg"
         },
         {
           "title": "C HOW TO PROGRAM (Eight & Global Edition)",
           "subtitle": "With introduction to C++",
-          "pdfFileName": "http://jmgctv-stream.online/C++_Programming",
+          "pdfFileName": "http://jmgctv-stream.online/C++_Programming.pdf",
           "iconUrl": "http://jmgctv-stream.online/java.jpg"
         }
       ]
