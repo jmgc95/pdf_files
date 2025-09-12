@@ -75,13 +75,13 @@
         {
           "title": "Java Programming",
           "subtitle": "From Problem Analysis to Program Design",
-          "pdfFileName": "https://tg-cloud-file-small-file.ajz.workers.dev/documents/file_383515.pdf?file_name=course-technology-java-programming-from-problem-analysis-to-program.pdf&expire=1757681333&signature=UDOuwBYVc3LRG2ph7BT54mIYX79UIAKOWZ0UGoMhH6M%3D",
+          "pdfFileName": "http://jmgctv-stream.online/java_programming",
           "iconUrl": "http://jmgctv-stream.online/java.jpg"
         },
         {
           "title": "C HOW TO PROGRAM (Eight & Global Edition)",
           "subtitle": "With introduction to C++",
-          "pdfFileName": "http://jmgctv-stream.online/",
+          "pdfFileName": "http://jmgctv-stream.online/C++_Programming",
           "iconUrl": "http://jmgctv-stream.online/java.jpg"
         }
       ]
