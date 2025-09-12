@@ -75,7 +75,7 @@
         {
           "title": "Java Programming",
           "subtitle": "From Problem Analysis to Program Design",
-          "pdfFileName": "https://tg-cloud-file-small-file.ajz.workers.dev/documents/file_383515.pdf?file_name=course-technology-java-programming-from-problem-analysis-to-program.pdf&expire=1757674058&signature=MwGZqp1n8j4qut4cTRDahj%2BBEFbZxifT8t5zIsLbPYU%3D",
+          "pdfFileName": "https://tg-cloud-file-small-file.ajz.workers.dev/documents/file_383515.pdf?file_name=course-technology-java-programming-from-problem-analysis-to-program.pdf&expire=1757675055&signature=EHQ9eFueX39%2BVzcZ4gKL%2BJTGzel%2FDgVN4ele7M2Pio8%3D",
           "iconUrl": "https://tg-cloud-file-small-file.ajz.workers.dev/photos/file_383516.jpg?file_name=aqadbscxg96nivz.jpg&expire=1757674757&signature=ycP14OaBNSukISbvjZ0PfhTGkNOiFUBIqrCtx4YiT4Y%3D"
         }
       ]
