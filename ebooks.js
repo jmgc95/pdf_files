@@ -67,9 +67,9 @@
       "name": "Computer Programming",
       "books": [
         {
-          "title": "Visual C# Step by Step (Eighth Edition",
+          "title": "Visual C# Step by Step (Eighth Edition)",
           "subtitle": "Beginner to Advanced",
-          "pdfFileName": "https://www.dropbox.com/scl/fi/ifmz5b1ek2zawwlkonxl5/John-Sharp-Microsoft-Visual-CSharp.pdf?rlkey=3ls7puhf0m68hc174biukqhjz&st=om7ci8w0&dl=0",
+          "pdfFileName": "https://tg-cloud-dl.noyes.in/download/21cf11c8-1857-496c-b6de-2db644dd430b",
           "iconUrl": "https://drive.google.com/uc?export=download&id=1PT0A9CsvAy4vcDC4QH99wPVPXexWE6XP"
         },
         {
