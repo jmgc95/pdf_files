@@ -83,7 +83,7 @@
           "subtitle": "With introduction to C++",
           "pdfFileName": "https://tg-cloud-file-small-file.ajz.workers.dev/documents/file_383526.pdf?file_name=c-how-to-program-with-an-introduction-to-c-global-edition-8th-edition.pdf&expire=1757677327&signature=Vc8v6CnCR7bN57lt%2FDqroSlDgO%2FmqTX%2Fy5KDjt4G%2FOo%3D",
           "iconUrl": "https://tg-cloud-file-small-file.ajz.workers.dev/photos/file_383528.jpg?file_name=aqadkmcxg96nivz.jpg&expire=1757677739&signature=W9VHjml42qcNumkgPGqe7BGMFXOSTLlw1trrY15qnMI%3D"
-        },
+        }
         }
       ]
     }
