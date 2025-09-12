@@ -70,13 +70,13 @@
           "title": "Visual C# Step by Step (Eighth Edition)",
           "subtitle": "Beginner to Advanced",
           "pdfFileName": "https://tg-cloud-dl.noyes.in/download/21cf11c8-1857-496c-b6de-2db644dd430b",
-          "iconUrl": "https://drive.google.com/uc?export=download&id=1PT0A9CsvAy4vcDC4QH99wPVPXexWE6XP"
+          "iconUrl": "https://tg-cloud-file-small-file.ajz.workers.dev/photos/file_383518.jpg?file_name=aqadb8cxg96nivz.jpg&expire=1757674788&signature=usJ7i5CxZ%2BD%2FelQP0%2Brh2V4l9QztZsHwiIgFbytg%2BCw%3D"
         },
         {
           "title": "Java Programming",
-          "subtitle": "Object Oriented Concepts",
-          "pdfFileName": "https://example.com/java_programming.pdf",
-          "iconUrl": "https://example.com/icons/java.png"
+          "subtitle": "From Problem Analysis to Program Design",
+          "pdfFileName": "https://tg-cloud-file-small-file.ajz.workers.dev/documents/file_383515.pdf?file_name=course-technology-java-programming-from-problem-analysis-to-program.pdf&expire=1757674058&signature=MwGZqp1n8j4qut4cTRDahj%2BBEFbZxifT8t5zIsLbPYU%3D",
+          "iconUrl": "https://tg-cloud-file-small-file.ajz.workers.dev/photos/file_383516.jpg?file_name=aqadbscxg96nivz.jpg&expire=1757674757&signature=ycP14OaBNSukISbvjZ0PfhTGkNOiFUBIqrCtx4YiT4Y%3D"
         }
       ]
     }
