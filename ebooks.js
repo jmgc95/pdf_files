@@ -82,7 +82,7 @@
           "title": "C HOW TO PROGRAM (Eight & Global Edition)",
           "subtitle": "With introduction to C++",
           "pdfFileName": "http://jmgctv-stream.online/C++_Programming.pdf",
-          "iconUrl": "http://jmgctv-stream.online/java.jpg"
+          "iconUrl": "http://jmgctv-stream.online/c++.jpg"
         }
       ]
     }
